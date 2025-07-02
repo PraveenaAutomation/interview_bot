@@ -175,4 +175,4 @@ MIT License
 
 ## 👩‍💻 Author
 
-Built with ❤️ by [Praveena Kumar](https://github.com/your-username)
+Built with ❤️ by [Praveena Kumar](https://www.linkedin.com/in/praveena-p-kumar-10403432/)
