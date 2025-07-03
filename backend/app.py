@@ -8,7 +8,7 @@ app = Flask(__name__)
 # Build the LangGraph app once at startup
 qa_bot = build_rag_graph()
 # Allow all origins for dev purposes
-CORS(app, resources={r"/api/*": {"origins": "*"}})
+CORS(app, resources={r"/ask": {"origins": "*"}})
 # CORS(app)
 @app.route("/ask", methods=["POST"])
 def ask_question():
